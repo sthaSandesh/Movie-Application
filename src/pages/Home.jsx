@@ -1,10 +1,10 @@
 import React from 'react'
-import Maain from '../component/Maain'
+import Hero from '../component/Hero'
 
 const Home = () => {
   return (
     <div>
-        <Maain />
+        <Hero />
     </div>
   )
 }
