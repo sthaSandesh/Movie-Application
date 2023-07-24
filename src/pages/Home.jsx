@@ -5,7 +5,7 @@ import request from '../Request'
 
 const Home = () => {
   return (
-    <div >
+    <div>
         <Hero />
         <Row title='Up Coming' fetchURL={request.requestUpcoming} /> 
         <Row title='Popular' fetchURL={request.requestPopular} /> 
