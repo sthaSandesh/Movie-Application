@@ -46,5 +46,4 @@ const Hero = () => {
         </div>
     )
 }
-// 36
 export default Hero
