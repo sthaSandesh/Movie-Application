@@ -1,7 +1,9 @@
 import React from 'react'
-import Hero from '../component/Hero'
-import Row from '../component/Row'
+
+
 import request from '../Request'
+import Hero from '../Component/Hero'
+import Row from '../Component/Row'
 
 const Home = () => {
   return (
