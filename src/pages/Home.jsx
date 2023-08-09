@@ -2,8 +2,8 @@ import React from 'react'
 
 
 import request from '../Request'
-import Hero from '../Component/Hero'
-import Row from '../Component/Row'
+import Hero from '../Components/Hero'
+import Row from '../Components/Row'
 
 const Home = () => {
   return (

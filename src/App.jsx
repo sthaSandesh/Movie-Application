@@ -4,8 +4,8 @@ import Home from "./pages/Home"
 import Login from './pages/Login'
 import Signup from './pages/Signup'
 import Account from './pages/Account'
-import Navbar from "./Component/Navbar"
-import ProtectedRoute from "./Component/ProtectedRoute"
+import Navbar from "./Components/Navbar"
+import ProtectedRoute from "./Components/ProtectedRoute"
 
 
 function App() {
