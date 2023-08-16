@@ -57,7 +57,7 @@ const Login = () => {
                 <p className='py-8 '>
 
 
-                  New to Nepflex? <a href="/signup" className='text-red-500'>Sign Up</a>
+                  New to Nepflex? <Link to="/signup" className='text-red-500'>Sign Up</Link>
 
 
                 </p>

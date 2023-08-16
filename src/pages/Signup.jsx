@@ -62,7 +62,7 @@ const Signup = () => {
                 <p className='py-8 '>
 
 
-                  Already have an account? <a href="/login" className='text-red-500'>Sign In</a>
+                  Already have an account? <Link to="/login" className='text-red-500'>Sign In</Link>
 
 
                 </p>
